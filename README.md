@@ -3,13 +3,6 @@
 Desenvolvedor Full Stack, construindo produtos web do banco de dados à interface. Atualmente
 focado em **React** / **Next.js** no frontend e **Python** / **Django REST Framework** no backend.
 
-<div align="center">
-  <a href="https://github.com/bismarkmesquita">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bismarkmesquita&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bismarkmesquita&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
-
 ##
 
 ### 🛠️ Skills
