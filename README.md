@@ -26,14 +26,13 @@ focado em **React** / **Next.js** no frontend e **Python** / **Django REST Frame
 ### 🚀 Projeto em destaque — Flight Agency
 
 Sistema de back office para agências de viagem: clientes, fornecedores, voos, vendas, reservas e
-um dashboard com indicadores. Frontend em Next.js/TypeScript, API em Django REST Framework, deploy
-na Vercel + Railway.
+um dashboard com indicadores. Frontend em Next.js/TypeScript, hospedado na Vercel. A API original
+foi construída em Django REST Framework, e a demo online roda com uma API simulada no próprio
+frontend (dados mockados, sem backend nem banco de dados).
 
 🔗 Demo: https://flight-agency-frontend.vercel.app/
 🖥️ Frontend: https://github.com/bismarkmesquita/flight-agency-frontend
 ⚙️ Backend: https://github.com/bismarkmesquita/flight-agency-backend
-
-##
 
 <div>
   <a href="https://www.linkedin.com/in/bismarkmesquita/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
